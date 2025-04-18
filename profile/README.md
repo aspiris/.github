@@ -1,6 +1,6 @@
 ## Aspiris
 
-Visit [https://www.aspiris.io/]([url](https://www.aspiris.io/)) for more...
+Visit [aspiris.io](https://www.aspiris.io/) for more...
 
 <!--
 
